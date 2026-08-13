@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+groq
+faster-whisper
+ctranslate2
+supabase
+plotly
